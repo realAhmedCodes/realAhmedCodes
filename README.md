@@ -7,7 +7,7 @@ A dedicated and innovative software engineer with expertise in full-stack develo
 - 👯 I’m looking to collaborate on web applications, RESTful APIs, and frontend/backend integration projects.
 - 🤝 I’m looking for help with optimizing API performance, improving database queries, and building scalable solutions.
 - 🌱 I’m currently learning new frameworks and languages, such as **Next.js**, **TypeScript**, and **GraphQL**.
-- ⚡ Fun fact: I love solving complex coding challenges and continuously learning new technologies.
+
 
 ## 🌐 Socials:
 
