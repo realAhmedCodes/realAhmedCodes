@@ -37,8 +37,9 @@ A dedicated and innovative software engineer with expertise in full-stack develo
 ![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=realAhmedCodes&show_icons=true&theme=dark&count_private=true)
 
 ## 🏆 Top Contributed Repos:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=realAhmedCodes&repo=3DFIY_App&theme=dark)](https://github.com/realAhmedCodes/3DFIY_App)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=realAhmedCodes&repo=Sentiment_Analysis&theme=dark)](https://github.com/realAhmedCodes/Sentiment_Analysis)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=realAhmedCodes&repo=NextJs-3DFIY&theme=dark)](https://github.com/realAhmedCodes/NextJs-3DFIY)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=realAhmedCodes&repo=LawyersUp&theme=dark)](https://github.com/realAhmedCodes/LawyersUp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=realAhmedCodes&repo=Job-Seed&theme=dark)](https://github.com/realAhmedCodes/Job-Seed)
 
 ## 📈 GitHub Streak:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=realAhmedCodes&theme=dark)](https://git.io/streak-stats)
