@@ -30,6 +30,9 @@ A dedicated and innovative software engineer with expertise in full-stack develo
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?&style=flat&logo=visual-studio-code&logoColor=white)
 
+## 📊 Most Used Languages:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=realAhmedCodes&layout=compact&theme=dark)
+
 ## 📈 GitHub Stats:
 ![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=realAhmedCodes&show_icons=true&theme=dark&count_private=true)
 
@@ -37,4 +40,10 @@ A dedicated and innovative software engineer with expertise in full-stack develo
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=realAhmedCodes&repo=SkillSwap&theme=dark)](https://github.com/realAhmedCodes/SkillSwap)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=realAhmedCodes&repo=Daraz-Sentiment-Analysis&theme=dark)](https://github.com/realAhmedCodes/Daraz-Sentiment-Analysis)
 
+## 📈 GitHub Streak:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=realAhmedCodes&theme=dark)](https://git.io/streak-stats)
 
+<!--
+realAhmedCodes/realAhmedCodes is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+-->
